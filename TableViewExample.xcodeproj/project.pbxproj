@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					8EBF0F881E16758700A4345B = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = 3KXG3NAG38;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3KXG3NAG38;
 				INFOPLIST_FILE = TableViewExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.YachtTechie.TableViewExample;
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3KXG3NAG38;
 				INFOPLIST_FILE = TableViewExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.YachtTechie.TableViewExample;
@@ -297,6 +300,7 @@
 				8EBF0F9D1E16758700A4345B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
